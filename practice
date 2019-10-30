@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <title>R&R Escalations Training Guide</title>
+    <link rel="stylesheet" type="text/css" href="file:///H:/Returns/Returns.Escalations.Wiki/Training Wiki/css/style.css">
+    <link rel="shortcut icon" href="file:///H:/Returns/Returns.Escalations.Wiki/Training Wiki/images/recommerce-logo.png"/>
+</head>
+<body>
+	<header>
+		<div class="container">
+			<img src="file:///H:/Returns/Returns.Escalations.Wiki/Training Wiki/images/recommerce-logo.png" alt="logo" class="logo">
+			<ul class="toplvl">
+				<li><a>Home</a></li>
+				<li><a>About</a></li>
+					<ul class="dropdown">
+						<li><a>Our Team</a></li>
+						<li><a>Escalations</a></li>
+						<li><a>Tenets</a></li>
+					</ul>
+				<li><a>Resources</a></li>
+				<li><a>Contact Us</a></li>
+			</ul>
+		</div>
+	</header>
+</body>
